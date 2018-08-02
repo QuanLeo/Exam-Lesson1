@@ -1,0 +1,24 @@
+﻿1. Viết chương trình in ra hình sau:
+    0        0
+    01      01
+    010    010 
+    0101  0101 
+    0101001010
+
+    
+2. viết chương trình đảo ngược 1 chuỗi ký tự bất kỳ theo mẫu sau và tự sửa : 
+VD: i wish i can learn C++ -> C++ learn can i wish i
+
+3. Cho một chuỗi bất kỳ do người dùng nhập vào:
+yêu cầu:
+- chương trình in ra xác suất ký tự xuất hiện nhiều nhất và ít nhất trong chuỗi.
+- chương trình tự sửa lỗi chính tả (in ra sau cùng):
+    VD: chữ cái đầu tiên sau dấu . phải viết hoa và cách 1 dòng.
+        Chữ cái đầu tiên sau dấu , phải lùi 1 dòng.
+        Chương trình có ký tự ko phải là chữ cái ví dụ !@#$%^&*() thì sẽ tư động được xóa đi.
+- Nếu chương trình có 1 từ lặp lại quá 4 lần thì in ra : this is a spam và termiate luôn chương trình không cần phải in ra gì cả 
+
+4. 
+Viết chương trình tính tổng của chuỗi, Ảnh đính kèm.
+
+    
